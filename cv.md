@@ -8,7 +8,6 @@
 ### City 
  Minsk (Belarus)
  
-
 ---
 ## About myself
 
@@ -25,6 +24,7 @@ Belarus State Economic University - economist marketer
 
 - Computer Science Basics (by EPAM)
 - Version Control with Git (by EPAM)
+
 ---
 ## Languages
 
