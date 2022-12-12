@@ -6,6 +6,7 @@
 * Discord: Nastia#3870
 
 ### City 
+ Minsk (Belarus)
  
 
 ---
